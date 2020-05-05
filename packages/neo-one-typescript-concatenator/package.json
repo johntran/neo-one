@@ -24,13 +24,13 @@
     "@neo-one/smart-contract-compiler-node": "^2.4.0",
     "@types/app-root-dir": "^0.1.0",
     "@types/fs-extra": "^8.0.0",
-    "@types/jest": "^24.0.18",
+    "@types/jest": "^25.0.0",
     "@types/lodash": "^4.14.138",
     "@types/toposort": "^2.0.1",
-    "@types/yargs": "^13.0.3",
+    "@types/yargs": "^15.0.0",
     "app-root-dir": "^1.0.2",
-    "fs-extra": "^8.1.0",
+    "fs-extra": "^9.0.0",
     "gulp": "~4.0.2",
-    "yargs": "^14.2.0"
+    "yargs": "^15.0.0"
   }
 }

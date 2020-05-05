@@ -12,13 +12,13 @@
   },
   "dependencies": {
     "@neo-one/logger-config": "^2.4.0",
-    "pino": "^5.12.6",
-    "pino-pretty": "^3.2.1",
+    "pino": "^6.0.0",
+    "pino-pretty": "^4.0.0",
     "tslib": "^1.10.0"
   },
   "devDependencies": {
     "@neo-one/build-tools": "^1.0.0",
-    "@types/pino": "^5.8.9",
+    "@types/pino": "^6.0.0",
     "gulp": "~4.0.2"
   },
   "sideEffects": false
